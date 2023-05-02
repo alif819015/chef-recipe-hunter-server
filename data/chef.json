@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Ming Tsai",
-        "picture": "https://example.com/john-smith.jpg",
+        "picture": "https://www.showcasemedialive.com/wp-content/uploads/2017/06/ming-tsai-1.jpg",
         "yearsOfExperience": 15,
         "numRecipes": 100,
         "likes": 5000,
@@ -27,7 +27,7 @@
     {
         "id": 2,
         "name": "Martin Yan",
-        "picture": "https://example.com/john-smith.jpg",
+        "picture": "https://myasialv.com/wp-content/uploads/2023/03/Martin-Yan-04115.jpg",
         "yearsOfExperience": 20,
         "numRecipes": 100,
         "likes": 5000,
@@ -52,7 +52,7 @@
     {
         "id": 3,
         "name": "Ken Hom",
-        "picture": "https://example.com/john-smith.jpg",
+        "picture": "https://www.kikkoman.co.uk/assets/image-cache/uploads/recipes/Ken_Hom.0098e036.jpg",
         "yearsOfExperience": 15,
         "numRecipes": 100,
         "likes": 5000,
@@ -77,7 +77,7 @@
     {
         "id": 4,
         "name": "Ching He Huang",
-        "picture": "https://example.com/john-smith.jpg",
+        "picture": "https://www.heraldscotland.com/resources/images/7048773/?type=responsive-gallery-fullscreen",
         "yearsOfExperience": 15,
         "numRecipes": 100,
         "likes": 5000,
@@ -102,7 +102,7 @@
     {
         "id": 5,
         "name": "Kylie Kwong",
-        "picture": "https://example.com/john-smith.jpg",
+        "picture": "https://m.media-amazon.com/images/I/91VNiIHpocL._AC_UF1000,1000_QL80_.jpg",
         "yearsOfExperience": 15,
         "numRecipes": 100,
         "likes": 5000,
@@ -127,7 +127,7 @@
     {
         "id": 6,
         "name": "Andrew Wong",
-        "picture": "https://example.com/john-smith.jpg",
+        "picture": "https://images.squarespace-cdn.com/content/v1/51797ccae4b0daa5f5156a50/1383589478969-46U0ZX4JNOSS12YPT62V/A+Wong-Hres+Copyright+Danny+Elwes.jpg?format=1000w",
         "yearsOfExperience": 15,
         "numRecipes": 100,
         "likes": 5000,
