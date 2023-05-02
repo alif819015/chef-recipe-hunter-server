@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "name": "Ming Tsai",
+        "picture": "https://example.com/john-smith.jpg",
+        "yearsOfExperience": 15,
+        "numRecipes": 100,
+        "likes": 5000,
+        "viewRecipesButton": "https://example.com/john-smith/recipes",
+        "country": "China",
+        "rating": 4.8,
+        "bio": "John Smith is a celebrity chef and television personality. He has published several bestselling cookbooks and hosted several popular cooking shows. He is known for his innovative use of seasonal ingredients and his emphasis on farm-to-table cuisine.",
+        "description": "Ming Tsai is a celebrity chef and restaurateur. He is known for his innovative fusion cuisine, which blends traditional Asian flavors with modern techniques. He has hosted several cooking shows, including Simply Ming and Ming's Quest. Ming Tsai is also the owner of several restaurants, including Blue Dragon in Boston, and has authored several cookbooks, including Simply Ming: One-Pot Meals and Blue Ginger: East Meets West Cooking with Ming Tsai.",
+        "recipes name": "Roasted Chicken",
+        "ingredients": [
+            "1 whole chicken",
+            "1 lemon",
+            "1 onion",
+            "4 cloves of garlic",
+            "2 sprigs of rosemary",
+            "Salt and pepper"
+        ],
+        "cookingMethod": "Preheat the oven to 400F. Cut the lemon and onion into quarters. Stuff the chicken with the lemon, onion, garlic, and rosemary. Season the chicken with salt and pepper. Place the chicken in a roasting pan and roast for 1 hour and 30 minutes or until the internal temperature reaches 165F.",
+        "favoriteButton": false
+         
+    },
+    {
+        "id": 2,
+        "name": "Martin Yan",
+        "picture": "https://example.com/john-smith.jpg",
+        "yearsOfExperience": 20,
+        "numRecipes": 100,
+        "likes": 5000,
+        "viewRecipesButton": "https://example.com/john-smith/recipes",
+        "country": "China",
+        "rating": 4.8,
+        "bio": "John Smith is a celebrity chef and television personality. He has published several bestselling cookbooks and hosted several popular cooking shows. He is known for his innovative use of seasonal ingredients and his emphasis on farm-to-table cuisine.",
+        "description": "Martin Yan is a celebrated Chinese-American chef and television presenter. He is best known for his cooking show Yan Can Cook, which aired for over 20 years and introduced Chinese cuisine to a wide audience. Yan is also the author of over 30 cookbooks, including Martin Yan's Feast: The Best of Yan Can Cook, and is the founder of the Yan Can International Cooking School. He has received numerous awards for his contributions to the culinary world, including the James Beard Foundation Lifetime Achievement Award.",
+        "recipes name": "Roasted Chicken",
+        "ingredients": [
+            "1 whole chicken",
+            "1 lemon",
+            "1 onion",
+            "4 cloves of garlic",
+            "2 sprigs of rosemary",
+            "Salt and pepper"
+        ],
+        "cookingMethod": "Preheat the oven to 400F. Cut the lemon and onion into quarters. Stuff the chicken with the lemon, onion, garlic, and rosemary. Season the chicken with salt and pepper. Place the chicken in a roasting pan and roast for 1 hour and 30 minutes or until the internal temperature reaches 165F.",
+        "favoriteButton": false
+         
+    },
+    {
+        "id": 3,
+        "name": "Ken Hom",
+        "picture": "https://example.com/john-smith.jpg",
+        "yearsOfExperience": 15,
+        "numRecipes": 100,
+        "likes": 5000,
+        "viewRecipesButton": "https://example.com/john-smith/recipes",
+        "country": "China",
+        "rating": 4.8,
+        "bio": "John Smith is a celebrity chef and television personality. He has published several bestselling cookbooks and hosted several popular cooking shows. He is known for his innovative use of seasonal ingredients and his emphasis on farm-to-table cuisine.",
+        "description": "Ken Hom is a renowned Chinese-American chef, author, and television presenter. He is known for his expertise in Cantonese cuisine and his advocacy for healthy and natural cooking. Hom has written over 30 cookbooks, including Ken Hom's Complete Chinese Cookbook and Easy Family Recipes from a Chinese-American Childhood. He has also hosted several cooking shows, including Ken Hom's Chinese Cookery and Exploring China: A Culinary Adventure. In recognition of his contributions to the culinary world, Hom has been awarded an honorary Officer of the Order of the British Empire (OBE) and the James Beard Foundation Lifetime Achievement Award.",
+        "recipes name": "Roasted Chicken",
+        "ingredients": [
+            "1 whole chicken",
+            "1 lemon",
+            "1 onion",
+            "4 cloves of garlic",
+            "2 sprigs of rosemary",
+            "Salt and pepper"
+        ],
+        "cookingMethod": "Preheat the oven to 400F. Cut the lemon and onion into quarters. Stuff the chicken with the lemon, onion, garlic, and rosemary. Season the chicken with salt and pepper. Place the chicken in a roasting pan and roast for 1 hour and 30 minutes or until the internal temperature reaches 165F.",
+        "favoriteButton": false
+         
+    },
+    {
+        "id": 4,
+        "name": "Ching He Huang",
+        "picture": "https://example.com/john-smith.jpg",
+        "yearsOfExperience": 15,
+        "numRecipes": 100,
+        "likes": 5000,
+        "viewRecipesButton": "https://example.com/john-smith/recipes",
+        "country": "China",
+        "rating": 4.8,
+        "bio": "John Smith is a celebrity chef and television personality. He has published several bestselling cookbooks and hosted several popular cooking shows. He is known for his innovative use of seasonal ingredients and his emphasis on farm-to-table cuisine.",
+        "description": "Ching He Huang is a British Chinese chef, television presenter, and author. She is known for her modern approach to Chinese cooking and her emphasis on healthy, fresh ingredients. Huang has hosted several cooking shows, including Chinese Food Made Easy and Exploring China: A Culinary Adventure, and has authored several cookbooks, including Ching's Chinese Food in Minutes and Stir Crazy: 100 Deliciously Healthy Stir-Fry Recipes. In addition to her work as a chef and author, Huang is a regular contributor to food magazines and has received several awards for her contributions to the culinary world, including the Best Chinese Cookbook award at the Gourmand World Cookbook Awards.",
+        "recipes name": "Roasted Chicken",
+        "ingredients": [
+            "1 whole chicken",
+            "1 lemon",
+            "1 onion",
+            "4 cloves of garlic",
+            "2 sprigs of rosemary",
+            "Salt and pepper"
+        ],
+        "cookingMethod": "Preheat the oven to 400F. Cut the lemon and onion into quarters. Stuff the chicken with the lemon, onion, garlic, and rosemary. Season the chicken with salt and pepper. Place the chicken in a roasting pan and roast for 1 hour and 30 minutes or until the internal temperature reaches 165F.",
+        "favoriteButton": false
+         
+    },
+    {
+        "id": 5,
+        "name": "Kylie Kwong",
+        "picture": "https://example.com/john-smith.jpg",
+        "yearsOfExperience": 15,
+        "numRecipes": 100,
+        "likes": 5000,
+        "viewRecipesButton": "https://example.com/john-smith/recipes",
+        "country": "China",
+        "rating": 4.8,
+        "bio": "John Smith is a celebrity chef and television personality. He has published several bestselling cookbooks and hosted several popular cooking shows. He is known for his innovative use of seasonal ingredients and his emphasis on farm-to-table cuisine.",
+        "description": "Kylie Kwong is an Australian chef, restaurateur, and television presenter. She is known for her creative fusion of Chinese and Australian cuisine and her emphasis on sustainable, locally sourced ingredients. Kwong has hosted several cooking shows, including Heart and Soul and Simply Magic, and is the author of several cookbooks, including It Tastes Better: Over 100 New Recipes Using My Favourite Sustainable Produce and Recipes and Stories. She is the owner of several restaurants in Sydney, including the acclaimed Billy Kwong, and has received numerous awards for her contributions to the culinary world, including the Vittoria Coffee Legend Award.",
+        "recipes name": "Roasted Chicken",
+        "ingredients": [
+            "1 whole chicken",
+            "1 lemon",
+            "1 onion",
+            "4 cloves of garlic",
+            "2 sprigs of rosemary",
+            "Salt and pepper"
+        ],
+        "cookingMethod": "Preheat the oven to 400F. Cut the lemon and onion into quarters. Stuff the chicken with the lemon, onion, garlic, and rosemary. Season the chicken with salt and pepper. Place the chicken in a roasting pan and roast for 1 hour and 30 minutes or until the internal temperature reaches 165F.",
+        "favoriteButton": false
+         
+    },
+    {
+        "id": 6,
+        "name": "Andrew Wong",
+        "picture": "https://example.com/john-smith.jpg",
+        "yearsOfExperience": 15,
+        "numRecipes": 100,
+        "likes": 5000,
+        "viewRecipesButton": "https://example.com/john-smith/recipes",
+        "country": "China",
+        "rating": 4.8,
+        "bio": "John Smith is a celebrity chef and television personality. He has published several bestselling cookbooks and hosted several popular cooking shows. He is known for his innovative use of seasonal ingredients and his emphasis on farm-to-table cuisine.",
+        "description": "Andrew Wong is a British Chinese chef and restaurateur. He is known for his modern approach to Chinese cuisine and his emphasis on regional Chinese dishes that are often overlooked in the West. Wong is the owner of the Michelin-starred restaurant A. Wong in London, which has received numerous accolades for its innovative and refined approach to Chinese cuisine. He has authored several cookbooks, including A. Wong - The Cookbook and The Modern Art of Chinese Cooking, and has received several awards for his contributions to the culinary world, including the GQ Chef of the Year award.",
+        "recipes name": "Roasted Chicken",
+        "ingredients": [
+            "1 whole chicken",
+            "1 lemon",
+            "1 onion",
+            "4 cloves of garlic",
+            "2 sprigs of rosemary",
+            "Salt and pepper"
+        ],
+        "cookingMethod": "Preheat the oven to 400F. Cut the lemon and onion into quarters. Stuff the chicken with the lemon, onion, garlic, and rosemary. Season the chicken with salt and pepper. Place the chicken in a roasting pan and roast for 1 hour and 30 minutes or until the internal temperature reaches 165F.",
+        "favoriteButton": false
+         
+    }
+]
