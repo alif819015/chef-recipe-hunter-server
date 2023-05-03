@@ -15,12 +15,12 @@ app.get('/chef', (req, res) => {
   res.send(chef);
 })
 
-// app.get('/chef/:id', (req, res) => {
-//     const id = req.params.id;
-//     console.log(id)
-//     const selectChef = chef.find(c => c.id == id);
-//     res.send(selectChef);
-//   })
+app.get('/chef/:id', (req, res) => {
+    const id = req.params.id;
+    console.log(id)
+    const selectChef = chef.find(c => c.id == id);
+    res.send(selectChef);
+  })
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)

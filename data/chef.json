@@ -3,8 +3,63 @@
         "id": 1,
         "name": "Ming Tsai",
         "picture": "https://www.showcasemedialive.com/wp-content/uploads/2017/06/ming-tsai-1.jpg",
-        "yearsOfExperience": 15,
-        "numRecipes": 100,
+        "yearsOfExperience": "15 yeas",
+        "recipes": [
+            "Kung Pao Chicken",
+            "Chow Mein",
+            "Mapo Tofu"
+        ],
+        "all_recipes": [
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "2 boneless chicken breasts, cut into small pieces",
+                    "1 red bell pepper, diced",
+                    "1 green bell pepper, diced",
+                    "1/2 cup roasted peanuts",
+                    "3 green onions, sliced",
+                    "2 cloves garlic, minced",
+                    "1/2 teaspoon ginger, minced",
+                    "1 tablespoon soy sauce",
+                    "1 tablespoon Shaoxing wine",
+                    "1 tablespoon cornstarch",
+                    "2 tablespoons vegetable oil",
+                    "Salt and pepper to taste"
+                ]
+            },
+            {
+                "name": "Hot and Sour Soup",
+                "ingredients": [
+                    "4 dried shiitake mushrooms, soaked in water and thinly sliced",
+                    "4 ounces boneless pork, cut into thin strips",
+                    "4 ounces tofu, cut into small cubes",
+                    "1/4 cup bamboo shoots, thinly sliced",
+                    "1/4 cup black fungus, thinly sliced",
+                    "3 cups chicken stock",
+                    "1/4 cup soy sauce",
+                    "1/4 cup rice vinegar",
+                    "1 teaspoon white pepper",
+                    "1 teaspoon sesame oil",
+                    "2 tablespoons cornstarch",
+                    "2 eggs, lightly beaten"
+                ]
+            },
+            {
+                "name": "Beef and Broccoli",
+                "ingredients": [
+                    "1 pound flank steak, thinly sliced against the grain",
+                    "3 cups broccoli florets",
+                    "2 tablespoons vegetable oil",
+                    "1 tablespoon cornstarch",
+                    "1/4 cup oyster sauce",
+                    "1/4 cup soy sauce",
+                    "1/4 cup water",
+                    "2 teaspoons sugar",
+                    "2 cloves garlic, minced",
+                    "1 teaspoon grated ginger"
+                ]
+            }
+        ],
         "likes": 5000,
         "viewRecipesButton": "https://example.com/john-smith/recipes",
         "country": "China",
@@ -12,24 +67,70 @@
         "bio": "John Smith is a celebrity chef and television personality. He has published several bestselling cookbooks and hosted several popular cooking shows. He is known for his innovative use of seasonal ingredients and his emphasis on farm-to-table cuisine.",
         "description": "Ming Tsai is a celebrity chef and restaurateur. He is known for his innovative fusion cuisine, which blends traditional Asian flavors with modern techniques. He has hosted several cooking shows, including Simply Ming and Ming's Quest. Ming Tsai is also the owner of several restaurants, including Blue Dragon in Boston, and has authored several cookbooks, including Simply Ming: One-Pot Meals and Blue Ginger: East Meets West Cooking with Ming Tsai.",
         "recipes name": "Roasted Chicken",
-        "ingredients": [
-            "1 whole chicken",
-            "1 lemon",
-            "1 onion",
-            "4 cloves of garlic",
-            "2 sprigs of rosemary",
-            "Salt and pepper"
-        ],
         "cookingMethod": "Preheat the oven to 400F. Cut the lemon and onion into quarters. Stuff the chicken with the lemon, onion, garlic, and rosemary. Season the chicken with salt and pepper. Place the chicken in a roasting pan and roast for 1 hour and 30 minutes or until the internal temperature reaches 165F.",
         "favoriteButton": false
-         
     },
     {
         "id": 2,
         "name": "Martin Yan",
         "picture": "https://myasialv.com/wp-content/uploads/2023/03/Martin-Yan-04115.jpg",
-        "yearsOfExperience": 20,
-        "numRecipes": 100,
+        "yearsOfExperience": "20 yeas",
+        "recipes": [
+            "Kung Pao Chicken",
+            "Chow Mein",
+            "Mapo Tofu"
+        ],
+        "all_recipes": [
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "2 boneless chicken breasts, cut into small pieces",
+                    "1 red bell pepper, diced",
+                    "1 green bell pepper, diced",
+                    "1/2 cup roasted peanuts",
+                    "3 green onions, sliced",
+                    "2 cloves garlic, minced",
+                    "1/2 teaspoon ginger, minced",
+                    "1 tablespoon soy sauce",
+                    "1 tablespoon Shaoxing wine",
+                    "1 tablespoon cornstarch",
+                    "2 tablespoons vegetable oil",
+                    "Salt and pepper to taste"
+                ]
+            },
+            {
+                "name": "Hot and Sour Soup",
+                "ingredients": [
+                    "4 dried shiitake mushrooms, soaked in water and thinly sliced",
+                    "4 ounces boneless pork, cut into thin strips",
+                    "4 ounces tofu, cut into small cubes",
+                    "1/4 cup bamboo shoots, thinly sliced",
+                    "1/4 cup black fungus, thinly sliced",
+                    "3 cups chicken stock",
+                    "1/4 cup soy sauce",
+                    "1/4 cup rice vinegar",
+                    "1 teaspoon white pepper",
+                    "1 teaspoon sesame oil",
+                    "2 tablespoons cornstarch",
+                    "2 eggs, lightly beaten"
+                ]
+            },
+            {
+                "name": "Beef and Broccoli",
+                "ingredients": [
+                    "1 pound flank steak, thinly sliced against the grain",
+                    "3 cups broccoli florets",
+                    "2 tablespoons vegetable oil",
+                    "1 tablespoon cornstarch",
+                    "1/4 cup oyster sauce",
+                    "1/4 cup soy sauce",
+                    "1/4 cup water",
+                    "2 teaspoons sugar",
+                    "2 cloves garlic, minced",
+                    "1 teaspoon grated ginger"
+                ]
+            }
+        ],
         "likes": 5000,
         "viewRecipesButton": "https://example.com/john-smith/recipes",
         "country": "China",
@@ -37,24 +138,70 @@
         "bio": "John Smith is a celebrity chef and television personality. He has published several bestselling cookbooks and hosted several popular cooking shows. He is known for his innovative use of seasonal ingredients and his emphasis on farm-to-table cuisine.",
         "description": "Martin Yan is a celebrated Chinese-American chef and television presenter. He is best known for his cooking show Yan Can Cook, which aired for over 20 years and introduced Chinese cuisine to a wide audience. Yan is also the author of over 30 cookbooks, including Martin Yan's Feast: The Best of Yan Can Cook, and is the founder of the Yan Can International Cooking School. He has received numerous awards for his contributions to the culinary world, including the James Beard Foundation Lifetime Achievement Award.",
         "recipes name": "Roasted Chicken",
-        "ingredients": [
-            "1 whole chicken",
-            "1 lemon",
-            "1 onion",
-            "4 cloves of garlic",
-            "2 sprigs of rosemary",
-            "Salt and pepper"
-        ],
         "cookingMethod": "Preheat the oven to 400F. Cut the lemon and onion into quarters. Stuff the chicken with the lemon, onion, garlic, and rosemary. Season the chicken with salt and pepper. Place the chicken in a roasting pan and roast for 1 hour and 30 minutes or until the internal temperature reaches 165F.",
         "favoriteButton": false
-         
     },
     {
         "id": 3,
         "name": "Ken Hom",
         "picture": "https://www.kikkoman.co.uk/assets/image-cache/uploads/recipes/Ken_Hom.0098e036.jpg",
-        "yearsOfExperience": 15,
-        "numRecipes": 100,
+        "yearsOfExperience": "15 yeas",
+        "recipes": [
+            "Kung Pao Chicken",
+            "Chow Mein",
+            "Mapo Tofu"
+        ],
+        "all_recipes": [
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "2 boneless chicken breasts, cut into small pieces",
+                    "1 red bell pepper, diced",
+                    "1 green bell pepper, diced",
+                    "1/2 cup roasted peanuts",
+                    "3 green onions, sliced",
+                    "2 cloves garlic, minced",
+                    "1/2 teaspoon ginger, minced",
+                    "1 tablespoon soy sauce",
+                    "1 tablespoon Shaoxing wine",
+                    "1 tablespoon cornstarch",
+                    "2 tablespoons vegetable oil",
+                    "Salt and pepper to taste"
+                ]
+            },
+            {
+                "name": "Hot and Sour Soup",
+                "ingredients": [
+                    "4 dried shiitake mushrooms, soaked in water and thinly sliced",
+                    "4 ounces boneless pork, cut into thin strips",
+                    "4 ounces tofu, cut into small cubes",
+                    "1/4 cup bamboo shoots, thinly sliced",
+                    "1/4 cup black fungus, thinly sliced",
+                    "3 cups chicken stock",
+                    "1/4 cup soy sauce",
+                    "1/4 cup rice vinegar",
+                    "1 teaspoon white pepper",
+                    "1 teaspoon sesame oil",
+                    "2 tablespoons cornstarch",
+                    "2 eggs, lightly beaten"
+                ]
+            },
+            {
+                "name": "Beef and Broccoli",
+                "ingredients": [
+                    "1 pound flank steak, thinly sliced against the grain",
+                    "3 cups broccoli florets",
+                    "2 tablespoons vegetable oil",
+                    "1 tablespoon cornstarch",
+                    "1/4 cup oyster sauce",
+                    "1/4 cup soy sauce",
+                    "1/4 cup water",
+                    "2 teaspoons sugar",
+                    "2 cloves garlic, minced",
+                    "1 teaspoon grated ginger"
+                ]
+            }
+        ],
         "likes": 5000,
         "viewRecipesButton": "https://example.com/john-smith/recipes",
         "country": "China",
@@ -62,24 +209,70 @@
         "bio": "John Smith is a celebrity chef and television personality. He has published several bestselling cookbooks and hosted several popular cooking shows. He is known for his innovative use of seasonal ingredients and his emphasis on farm-to-table cuisine.",
         "description": "Ken Hom is a renowned Chinese-American chef, author, and television presenter. He is known for his expertise in Cantonese cuisine and his advocacy for healthy and natural cooking. Hom has written over 30 cookbooks, including Ken Hom's Complete Chinese Cookbook and Easy Family Recipes from a Chinese-American Childhood. He has also hosted several cooking shows, including Ken Hom's Chinese Cookery and Exploring China: A Culinary Adventure. In recognition of his contributions to the culinary world, Hom has been awarded an honorary Officer of the Order of the British Empire (OBE) and the James Beard Foundation Lifetime Achievement Award.",
         "recipes name": "Roasted Chicken",
-        "ingredients": [
-            "1 whole chicken",
-            "1 lemon",
-            "1 onion",
-            "4 cloves of garlic",
-            "2 sprigs of rosemary",
-            "Salt and pepper"
-        ],
         "cookingMethod": "Preheat the oven to 400F. Cut the lemon and onion into quarters. Stuff the chicken with the lemon, onion, garlic, and rosemary. Season the chicken with salt and pepper. Place the chicken in a roasting pan and roast for 1 hour and 30 minutes or until the internal temperature reaches 165F.",
         "favoriteButton": false
-         
     },
     {
         "id": 4,
         "name": "Ching He Huang",
         "picture": "https://www.heraldscotland.com/resources/images/7048773/?type=responsive-gallery-fullscreen",
-        "yearsOfExperience": 15,
-        "numRecipes": 100,
+        "yearsOfExperience": "15 yeas",
+        "recipes": [
+            "Kung Pao Chicken",
+            "Chow Mein",
+            "Mapo Tofu"
+        ],
+        "all_recipes": [
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "2 boneless chicken breasts, cut into small pieces",
+                    "1 red bell pepper, diced",
+                    "1 green bell pepper, diced",
+                    "1/2 cup roasted peanuts",
+                    "3 green onions, sliced",
+                    "2 cloves garlic, minced",
+                    "1/2 teaspoon ginger, minced",
+                    "1 tablespoon soy sauce",
+                    "1 tablespoon Shaoxing wine",
+                    "1 tablespoon cornstarch",
+                    "2 tablespoons vegetable oil",
+                    "Salt and pepper to taste"
+                ]
+            },
+            {
+                "name": "Hot and Sour Soup",
+                "ingredients": [
+                    "4 dried shiitake mushrooms, soaked in water and thinly sliced",
+                    "4 ounces boneless pork, cut into thin strips",
+                    "4 ounces tofu, cut into small cubes",
+                    "1/4 cup bamboo shoots, thinly sliced",
+                    "1/4 cup black fungus, thinly sliced",
+                    "3 cups chicken stock",
+                    "1/4 cup soy sauce",
+                    "1/4 cup rice vinegar",
+                    "1 teaspoon white pepper",
+                    "1 teaspoon sesame oil",
+                    "2 tablespoons cornstarch",
+                    "2 eggs, lightly beaten"
+                ]
+            },
+            {
+                "name": "Beef and Broccoli",
+                "ingredients": [
+                    "1 pound flank steak, thinly sliced against the grain",
+                    "3 cups broccoli florets",
+                    "2 tablespoons vegetable oil",
+                    "1 tablespoon cornstarch",
+                    "1/4 cup oyster sauce",
+                    "1/4 cup soy sauce",
+                    "1/4 cup water",
+                    "2 teaspoons sugar",
+                    "2 cloves garlic, minced",
+                    "1 teaspoon grated ginger"
+                ]
+            }
+        ],
         "likes": 5000,
         "viewRecipesButton": "https://example.com/john-smith/recipes",
         "country": "China",
@@ -87,24 +280,70 @@
         "bio": "John Smith is a celebrity chef and television personality. He has published several bestselling cookbooks and hosted several popular cooking shows. He is known for his innovative use of seasonal ingredients and his emphasis on farm-to-table cuisine.",
         "description": "Ching He Huang is a British Chinese chef, television presenter, and author. She is known for her modern approach to Chinese cooking and her emphasis on healthy, fresh ingredients. Huang has hosted several cooking shows, including Chinese Food Made Easy and Exploring China: A Culinary Adventure, and has authored several cookbooks, including Ching's Chinese Food in Minutes and Stir Crazy: 100 Deliciously Healthy Stir-Fry Recipes. In addition to her work as a chef and author, Huang is a regular contributor to food magazines and has received several awards for her contributions to the culinary world, including the Best Chinese Cookbook award at the Gourmand World Cookbook Awards.",
         "recipes name": "Roasted Chicken",
-        "ingredients": [
-            "1 whole chicken",
-            "1 lemon",
-            "1 onion",
-            "4 cloves of garlic",
-            "2 sprigs of rosemary",
-            "Salt and pepper"
-        ],
         "cookingMethod": "Preheat the oven to 400F. Cut the lemon and onion into quarters. Stuff the chicken with the lemon, onion, garlic, and rosemary. Season the chicken with salt and pepper. Place the chicken in a roasting pan and roast for 1 hour and 30 minutes or until the internal temperature reaches 165F.",
         "favoriteButton": false
-         
     },
     {
         "id": 5,
         "name": "Kylie Kwong",
         "picture": "https://m.media-amazon.com/images/I/91VNiIHpocL._AC_UF1000,1000_QL80_.jpg",
-        "yearsOfExperience": 15,
-        "numRecipes": 100,
+        "yearsOfExperience": "15 yeas",
+        "recipes": [
+            "Kung Pao Chicken",
+            "Chow Mein",
+            "Mapo Tofu"
+        ],
+        "all_recipes": [
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "2 boneless chicken breasts, cut into small pieces",
+                    "1 red bell pepper, diced",
+                    "1 green bell pepper, diced",
+                    "1/2 cup roasted peanuts",
+                    "3 green onions, sliced",
+                    "2 cloves garlic, minced",
+                    "1/2 teaspoon ginger, minced",
+                    "1 tablespoon soy sauce",
+                    "1 tablespoon Shaoxing wine",
+                    "1 tablespoon cornstarch",
+                    "2 tablespoons vegetable oil",
+                    "Salt and pepper to taste"
+                ]
+            },
+            {
+                "name": "Hot and Sour Soup",
+                "ingredients": [
+                    "4 dried shiitake mushrooms, soaked in water and thinly sliced",
+                    "4 ounces boneless pork, cut into thin strips",
+                    "4 ounces tofu, cut into small cubes",
+                    "1/4 cup bamboo shoots, thinly sliced",
+                    "1/4 cup black fungus, thinly sliced",
+                    "3 cups chicken stock",
+                    "1/4 cup soy sauce",
+                    "1/4 cup rice vinegar",
+                    "1 teaspoon white pepper",
+                    "1 teaspoon sesame oil",
+                    "2 tablespoons cornstarch",
+                    "2 eggs, lightly beaten"
+                ]
+            },
+            {
+                "name": "Beef and Broccoli",
+                "ingredients": [
+                    "1 pound flank steak, thinly sliced against the grain",
+                    "3 cups broccoli florets",
+                    "2 tablespoons vegetable oil",
+                    "1 tablespoon cornstarch",
+                    "1/4 cup oyster sauce",
+                    "1/4 cup soy sauce",
+                    "1/4 cup water",
+                    "2 teaspoons sugar",
+                    "2 cloves garlic, minced",
+                    "1 teaspoon grated ginger"
+                ]
+            }
+        ],
         "likes": 5000,
         "viewRecipesButton": "https://example.com/john-smith/recipes",
         "country": "China",
@@ -112,24 +351,70 @@
         "bio": "John Smith is a celebrity chef and television personality. He has published several bestselling cookbooks and hosted several popular cooking shows. He is known for his innovative use of seasonal ingredients and his emphasis on farm-to-table cuisine.",
         "description": "Kylie Kwong is an Australian chef, restaurateur, and television presenter. She is known for her creative fusion of Chinese and Australian cuisine and her emphasis on sustainable, locally sourced ingredients. Kwong has hosted several cooking shows, including Heart and Soul and Simply Magic, and is the author of several cookbooks, including It Tastes Better: Over 100 New Recipes Using My Favourite Sustainable Produce and Recipes and Stories. She is the owner of several restaurants in Sydney, including the acclaimed Billy Kwong, and has received numerous awards for her contributions to the culinary world, including the Vittoria Coffee Legend Award.",
         "recipes name": "Roasted Chicken",
-        "ingredients": [
-            "1 whole chicken",
-            "1 lemon",
-            "1 onion",
-            "4 cloves of garlic",
-            "2 sprigs of rosemary",
-            "Salt and pepper"
-        ],
         "cookingMethod": "Preheat the oven to 400F. Cut the lemon and onion into quarters. Stuff the chicken with the lemon, onion, garlic, and rosemary. Season the chicken with salt and pepper. Place the chicken in a roasting pan and roast for 1 hour and 30 minutes or until the internal temperature reaches 165F.",
         "favoriteButton": false
-         
     },
     {
         "id": 6,
         "name": "Andrew Wong",
         "picture": "https://images.squarespace-cdn.com/content/v1/51797ccae4b0daa5f5156a50/1383589478969-46U0ZX4JNOSS12YPT62V/A+Wong-Hres+Copyright+Danny+Elwes.jpg?format=1000w",
-        "yearsOfExperience": 15,
-        "numRecipes": 100,
+        "yearsOfExperience": "15 years",
+        "recipes": [
+            "Kung Pao Chicken",
+            "Chow Mein",
+            "Mapo Tofu"
+        ],
+        "all_recipes": [
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "2 boneless chicken breasts, cut into small pieces",
+                    "1 red bell pepper, diced",
+                    "1 green bell pepper, diced",
+                    "1/2 cup roasted peanuts",
+                    "3 green onions, sliced",
+                    "2 cloves garlic, minced",
+                    "1/2 teaspoon ginger, minced",
+                    "1 tablespoon soy sauce",
+                    "1 tablespoon Shaoxing wine",
+                    "1 tablespoon cornstarch",
+                    "2 tablespoons vegetable oil",
+                    "Salt and pepper to taste"
+                ]
+            },
+            {
+                "name": "Hot and Sour Soup",
+                "ingredients": [
+                    "4 dried shiitake mushrooms, soaked in water and thinly sliced",
+                    "4 ounces boneless pork, cut into thin strips",
+                    "4 ounces tofu, cut into small cubes",
+                    "1/4 cup bamboo shoots, thinly sliced",
+                    "1/4 cup black fungus, thinly sliced",
+                    "3 cups chicken stock",
+                    "1/4 cup soy sauce",
+                    "1/4 cup rice vinegar",
+                    "1 teaspoon white pepper",
+                    "1 teaspoon sesame oil",
+                    "2 tablespoons cornstarch",
+                    "2 eggs, lightly beaten"
+                ]
+            },
+            {
+                "name": "Beef and Broccoli",
+                "ingredients": [
+                    "1 pound flank steak, thinly sliced against the grain",
+                    "3 cups broccoli florets",
+                    "2 tablespoons vegetable oil",
+                    "1 tablespoon cornstarch",
+                    "1/4 cup oyster sauce",
+                    "1/4 cup soy sauce",
+                    "1/4 cup water",
+                    "2 teaspoons sugar",
+                    "2 cloves garlic, minced",
+                    "1 teaspoon grated ginger"
+                ]
+            }
+        ],
         "likes": 5000,
         "viewRecipesButton": "https://example.com/john-smith/recipes",
         "country": "China",
@@ -147,6 +432,5 @@
         ],
         "cookingMethod": "Preheat the oven to 400F. Cut the lemon and onion into quarters. Stuff the chicken with the lemon, onion, garlic, and rosemary. Season the chicken with salt and pepper. Place the chicken in a roasting pan and roast for 1 hour and 30 minutes or until the internal temperature reaches 165F.",
         "favoriteButton": false
-         
     }
 ]
